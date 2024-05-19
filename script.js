@@ -22,16 +22,16 @@ function addTask() {
   saveData();
 }
 
-// 
+//
 
 // Listen for Enter key press
-inputBox.addEventListener("keypress", function(event) {
+inputBox.addEventListener("keypress", function (event) {
   if (event.key === "Enter") {
     addTask();
   }
 });
 
-// 
+//
 
 function updateCounter() {
   if (remaining === total) {
