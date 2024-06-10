@@ -32,7 +32,7 @@ body {
 }
 
 #har {
-  color: #f60014;
+  color: #FF4D00;
 }
 /* button */
 /* button */
@@ -70,7 +70,7 @@ body {
 }
 
 .text #hub {
-  color: #f60014;
+  color: #FF4D00;
   width: 120px;
   font-weight: 600;
 }
@@ -119,7 +119,7 @@ body {
 }
 
 .todo-app h2 #done {
-  color: #f60014;
+  color: #FF4D00;
 }
 
 .todo-app h2::after {
@@ -135,7 +135,7 @@ body {
 
 #circle {
   color: #0a0908;
-  background-color: #f60014;
+  background-color: #FF4D00;
   height: 100px;
   width: 100px;
   align-items: center;
@@ -200,7 +200,7 @@ body {
   border: none;
   outline: none;
   padding: 16px 50px;
-  background: #f60014;
+  background: #FF4D00;
   color: #0a0908;
   cursor: pointer;
   border-radius: 35px;
@@ -226,7 +226,7 @@ body {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background-color: #dc2f02;
+  background-color: #FF4D00;
   cursor: pointer;
   border: 2px solid #a99985;
   transition-duration: 0.3s;
